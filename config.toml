@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Shuping Ruan"
+theme = "nederburg"
+disqusShortname = "shuruan"
+email = "shuping.ruan@gmail.com"
+googleAnalytics = ""
+
+[params.writers."Shuping Ruan"]
+    link = "https://"
+    email = "shuping.ruan@gmail.com"
+    bio = [
+      "Shuping is a data scientist at Cisco. She earned her Ph.D. in Statistics from North Carolina State. "
+    ]
+    facebook      = ""
+    googleplus    = ""
+    twitter       = "https://twitter.com/Shuping_Ruan"
+    linkedin      = "https://www.linkedin.com/in/shuping-ruan/"
+    stackoverflow = ""
+    instagram     = ""
+    github        = "https://github.com/ShupingR"
+    pinterest     = ""
